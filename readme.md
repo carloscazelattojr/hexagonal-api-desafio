@@ -70,5 +70,10 @@ Response →
 localhost:8181
 ```
 
+# APIs Fakes
+
+```
+https://beeceptor.com/
+```
 
 
