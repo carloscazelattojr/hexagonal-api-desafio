@@ -5,12 +5,13 @@ import br.com.carlosjunior.boletojuros.adapter.http.dto.CalculoBoletoResponse;
 import br.com.carlosjunior.boletojuros.adapter.http.mapper.CalculoBoletoMapper;
 import br.com.carlosjunior.boletojuros.core.port.in.CalculoBoletoPort;
 import io.swagger.v3.oas.annotations.Operation;
-import jakarta.validation.Valid;
-import org.springframework.http.ResponseEntity;
+ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import javax.validation.Valid;
 
 @RestController
 @RequestMapping("/api/boleto")
