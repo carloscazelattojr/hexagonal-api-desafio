@@ -21,6 +21,8 @@
     - Valor do boleto +  valor dos juros em atraso
 - Salvar em um **banco de dados** todos os cálculos realizados
 
+
+
 Request →
 ```json
 {
@@ -42,7 +44,13 @@ Response →
 <br>
 <br>
 <br>
+# API
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/carloscazelattojr/hexagonal-api-desafio/API.png" width="800" alt="preview" />
 
+  </a>
+</div>
 
 # Ferramentas
 
@@ -55,4 +63,12 @@ Response →
 - Mysql
 - Feign Client
 - Map Struct
+
+# Acessar MySQL
+
+```
+localhost:8181
+```
+
+
 
