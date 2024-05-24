@@ -47,7 +47,7 @@ Response →
 # API
 <div align="center">
   <a href="#">
-      <img src="https://github.com/carloscazelattojr/hexagonal-api-desafio/API.png" width="800" alt="preview" />
+      <img src="https://github.com/carloscazelattojr/hexagonal-api-desafio/blob/main/API.png" width="800" alt="preview" />
 
   </a>
 </div>
